@@ -32,6 +32,10 @@ public class Sel_Intro {
 			Date currentDateTime = calendar.getTime();
 			System.out.println(currentDateTime);
 			driver.quit();
+			System.out.println("Verifying the git by Message1");
+			System.out.println("Verifying the git by Message1");
+			System.out.println("Verifying the git by Message1");
+			System.out.println("Verifying the git by Message1");
 			
 	}
 
